@@ -10,7 +10,7 @@
             <Annotations Target="SAP.ZC_ADDAH5Type">
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
-                        
+
                           <PropertyPath>GrossAmt</PropertyPath>
                            <PropertyPath>OrderNo</PropertyPath>
                             <PropertyPath>OrderType</PropertyPath>
