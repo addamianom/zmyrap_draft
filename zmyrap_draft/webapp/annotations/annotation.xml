@@ -12,8 +12,7 @@
                     <Collection>
                         <PropertyPath>Customer</PropertyPath>
                         <PropertyPath>GrossAmt</PropertyPath>
-
-                        
+                        <PropertyPath>OrderNo</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
